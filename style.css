@@ -1,0 +1,9 @@
+form {
+    display: flex;
+    flex-flow: column;
+    max-width: 300px;
+}
+
+img {
+    max-width: 100%;
+}
